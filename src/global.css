@@ -6,7 +6,12 @@
   --color-primary: #485dff;
   --color-primary-light: #6a7bff;
   --color-primary-dark: #2d3fcc;
-  
+
+  /* Secondary Colors */
+  --color-secondary: #4caf50;
+  --color-secondary-light: #66bb6a;
+  --color-secondary-dark: #388e3c;
+
   /* Neutral Colors */
   --color-white: #ffffff;
   --color-gray-100: #f8f9fa;
@@ -32,6 +37,8 @@
   --font-size-body: 1.6rem;
   --line-height-base: 1.5;
   --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
   --font-weight-bold: 700;
 
   /* Spacing */
